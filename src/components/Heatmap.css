@@ -1,0 +1,7 @@
+rect.heatmap {
+   fill: #2496ed;
+}
+
+rect.heatmap.disabled {
+   fill: #EEE;
+}

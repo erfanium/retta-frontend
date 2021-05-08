@@ -1,0 +1,2828 @@
+{
+   "mostGrow": [
+      {
+         "id": "60577b9b45375e5a2a997a22",
+         "registerDay": 18707,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               3,
+               3,
+               4,
+               0,
+               3,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               1,
+               0
+            ]
+         },
+         "activityAverage": 4.285714285714286,
+         "activityRegression": {
+            "a": 0.5538461538461539,
+            "b": 0.6857142857142859
+         },
+         "latestActivities": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            8,
+            6,
+            7,
+            9,
+            5,
+            6,
+            7,
+            6,
+            5
+         ],
+         "nActiveDays": 75,
+         "latestEventDate": "2021-05-06T12:09:26.000Z",
+         "firstAvailableEventDate": "2021-03-21T17:43:59.000Z"
+      },
+      {
+         "id": "604a288f45375e5a2a96d53c",
+         "registerDay": 18697,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               3,
+               9,
+               4,
+               1,
+               4,
+               6,
+               3,
+               1,
+               2,
+               3,
+               0,
+               2,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 2.857142857142857,
+         "activityRegression": {
+            "a": 0.46153846153846156,
+            "b": -0.14285714285714324
+         },
+         "latestActivities": [
+            3,
+            1,
+            0,
+            0,
+            0,
+            0,
+            4,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            8
+         ],
+         "nActiveDays": 144,
+         "latestEventDate": "2021-05-06T16:10:17.000Z",
+         "firstAvailableEventDate": "2021-03-11T15:00:31.000Z"
+      },
+      {
+         "id": "6049134f45375e5a2a96ab25",
+         "registerDay": 18696,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               1,
+               0
+            ]
+         },
+         "activityAverage": 4,
+         "activityRegression": {
+            "a": 0.4087912087912088,
+            "b": 1.342857142857143
+         },
+         "latestActivities": [
+            0,
+            0,
+            0,
+            1,
+            9,
+            6,
+            5,
+            4,
+            4,
+            4,
+            8,
+            3,
+            7,
+            5
+         ],
+         "nActiveDays": 61,
+         "latestEventDate": "2021-05-06T19:47:59.000Z",
+         "firstAvailableEventDate": "2021-03-10T19:19:57.000Z"
+      },
+      {
+         "id": "60688a056d9e37afc8ae9ca1",
+         "registerDay": 18720,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               3,
+               0,
+               0,
+               2,
+               7,
+               2,
+               1,
+               1,
+               3,
+               6,
+               4,
+               3,
+               3,
+               6
+            ]
+         },
+         "activityAverage": 6.5,
+         "activityRegression": {
+            "a": 0.4021978021978022,
+            "b": 3.8857142857142857
+         },
+         "latestActivities": [
+            0,
+            4,
+            4,
+            7,
+            6,
+            8,
+            9,
+            8,
+            9,
+            4,
+            9,
+            7,
+            7,
+            9
+         ],
+         "nActiveDays": 157,
+         "latestEventDate": "2021-05-06T18:56:00.000Z",
+         "firstAvailableEventDate": "2021-04-03T16:04:16.000Z"
+      },
+      {
+         "id": "6055c5ad45375e5a2a992cbd",
+         "registerDay": 18706,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               7,
+               4,
+               9,
+               9,
+               9,
+               6,
+               9,
+               7,
+               6,
+               9,
+               9,
+               6,
+               3
+            ]
+         },
+         "activityAverage": 3.642857142857143,
+         "activityRegression": {
+            "a": 0.3978021978021978,
+            "b": 1.0571428571428574
+         },
+         "latestActivities": [
+            2,
+            3,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            9,
+            5,
+            8,
+            6,
+            9,
+            1
+         ],
+         "nActiveDays": 300,
+         "latestEventDate": "2021-05-06T04:26:57.000Z",
+         "firstAvailableEventDate": "2021-03-21T12:30:59.000Z"
+      },
+      {
+         "id": "607346a56d9e37afc8b10b3d",
+         "registerDay": 18728,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               5,
+               6,
+               7,
+               9,
+               2,
+               2,
+               3,
+               7,
+               8,
+               9,
+               8,
+               0,
+               5
+            ]
+         },
+         "activityAverage": 5.428571428571429,
+         "activityRegression": {
+            "a": 0.3824175824175824,
+            "b": 2.9428571428571426
+         },
+         "latestActivities": [
+            0,
+            5,
+            2,
+            5,
+            6,
+            5,
+            7,
+            3,
+            9,
+            7,
+            9,
+            5,
+            4,
+            9
+         ],
+         "nActiveDays": 146,
+         "latestEventDate": "2021-05-06T18:54:11.000Z",
+         "firstAvailableEventDate": "2021-04-11T20:09:25.000Z"
+      },
+      {
+         "id": "5feff2dd065ca5807fca9a7b",
+         "registerDay": 18629,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 4.642857142857143,
+         "activityRegression": {
+            "a": 0.37142857142857144,
+            "b": 2.228571428571428
+         },
+         "latestActivities": [
+            2,
+            5,
+            3,
+            1,
+            3,
+            4,
+            4,
+            4,
+            7,
+            4,
+            9,
+            7,
+            6,
+            6
+         ],
+         "nActiveDays": 385,
+         "latestEventDate": "2021-05-06T16:23:11.000Z",
+         "firstAvailableEventDate": "2021-02-06T04:58:57.000Z"
+      },
+      {
+         "id": "5fc68bc226d0ee027b44ac14",
+         "registerDay": 18597,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 6.857142857142857,
+         "activityRegression": {
+            "a": 0.3648351648351648,
+            "b": 4.485714285714286
+         },
+         "latestActivities": [
+            3,
+            6,
+            2,
+            9,
+            7,
+            7,
+            7,
+            8,
+            3,
+            9,
+            8,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 554,
+         "latestEventDate": "2021-05-06T19:51:14.000Z",
+         "firstAvailableEventDate": "2021-02-07T07:47:31.000Z"
+      },
+      {
+         "id": "6073dc466d9e37afc8b119e9",
+         "registerDay": 18729,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               3,
+               2,
+               0,
+               0,
+               0,
+               1,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 1.4285714285714286,
+         "activityRegression": {
+            "a": 0.34725274725274724,
+            "b": -0.8285714285714283
+         },
+         "latestActivities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            3,
+            3,
+            3,
+            4,
+            4
+         ],
+         "nActiveDays": 26,
+         "latestEventDate": "2021-05-06T17:32:11.000Z",
+         "firstAvailableEventDate": "2021-04-12T06:09:15.000Z"
+      },
+      {
+         "id": "6035553645375e5a2a92c664",
+         "registerDay": 18681,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               4,
+               4,
+               2,
+               1,
+               1,
+               1,
+               0,
+               0,
+               0,
+               1,
+               0,
+               1,
+               0
+            ]
+         },
+         "activityAverage": 0.9285714285714286,
+         "activityRegression": {
+            "a": 0.33186813186813185,
+            "b": -1.2285714285714286
+         },
+         "latestActivities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            3,
+            7
+         ],
+         "nActiveDays": 34,
+         "latestEventDate": "2021-05-06T15:23:34.000Z",
+         "firstAvailableEventDate": "2021-02-24T04:26:23.000Z"
+      },
+      {
+         "id": "5fdb7414a558e8f8ad26b6d1",
+         "registerDay": 18613,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 5.428571428571429,
+         "activityRegression": {
+            "a": 0.2989010989010989,
+            "b": 3.485714285714285
+         },
+         "latestActivities": [
+            1,
+            5,
+            7,
+            6,
+            6,
+            3,
+            5,
+            2,
+            7,
+            4,
+            5,
+            9,
+            7,
+            9
+         ],
+         "nActiveDays": 672,
+         "latestEventDate": "2021-05-06T18:43:41.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:12:05.000Z"
+      },
+      {
+         "id": "6076886f6d9e37afc8b1b6c6",
+         "registerDay": 18731,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               6,
+               3,
+               0,
+               2,
+               2,
+               0,
+               1,
+               0,
+               0,
+               1,
+               0,
+               0,
+               0,
+               1
+            ]
+         },
+         "activityAverage": 2.357142857142857,
+         "activityRegression": {
+            "a": 0.2967032967032967,
+            "b": 0.4285714285714286
+         },
+         "latestActivities": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            7,
+            1,
+            5,
+            3,
+            7,
+            4,
+            4,
+            0
+         ],
+         "nActiveDays": 47,
+         "latestEventDate": "2021-05-05T18:26:48.000Z",
+         "firstAvailableEventDate": "2021-04-14T06:45:27.000Z"
+      },
+      {
+         "id": "601b98a2dc8e7da654173a12",
+         "registerDay": 18662,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               1,
+               1,
+               1,
+               0,
+               0,
+               1,
+               0,
+               0,
+               0,
+               2,
+               3,
+               1
+            ]
+         },
+         "activityAverage": 5.428571428571429,
+         "activityRegression": {
+            "a": 0.2945054945054945,
+            "b": 3.5142857142857133
+         },
+         "latestActivities": [
+            0,
+            4,
+            5,
+            5,
+            6,
+            8,
+            7,
+            0,
+            9,
+            7,
+            4,
+            7,
+            8,
+            6
+         ],
+         "nActiveDays": 398,
+         "latestEventDate": "2021-05-06T18:18:42.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:26:22.000Z"
+      },
+      {
+         "id": "5ff3efab065ca5807fcb1f9c",
+         "registerDay": 18632,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 6.642857142857143,
+         "activityRegression": {
+            "a": 0.2923076923076923,
+            "b": 4.742857142857142
+         },
+         "latestActivities": [
+            7,
+            4,
+            2,
+            6,
+            8,
+            7,
+            7,
+            4,
+            9,
+            6,
+            7,
+            9,
+            8,
+            9
+         ],
+         "nActiveDays": 717,
+         "latestEventDate": "2021-05-06T19:05:02.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:05:00.000Z"
+      },
+      {
+         "id": "6020048eebf6f9382b1e6221",
+         "registerDay": 18665,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               2,
+               4,
+               4,
+               4,
+               2,
+               8,
+               2,
+               5,
+               8,
+               3,
+               6,
+               9,
+               9
+            ]
+         },
+         "activityAverage": 1.9285714285714286,
+         "activityRegression": {
+            "a": 0.2923076923076923,
+            "b": 0.02857142857142847
+         },
+         "latestActivities": [
+            1,
+            2,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            3,
+            2,
+            6,
+            4,
+            4
+         ],
+         "nActiveDays": 239,
+         "latestEventDate": "2021-05-06T14:48:15.000Z",
+         "firstAvailableEventDate": "2021-02-07T18:36:08.000Z"
+      },
+      {
+         "id": "601566a43b353be3469a1d54",
+         "registerDay": 18657,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               9,
+               7,
+               5,
+               7,
+               6,
+               9,
+               0
+            ]
+         },
+         "activityAverage": 5.214285714285714,
+         "activityRegression": {
+            "a": 0.2835164835164835,
+            "b": 3.371428571428572
+         },
+         "latestActivities": [
+            0,
+            9,
+            2,
+            2,
+            9,
+            5,
+            5,
+            1,
+            6,
+            6,
+            9,
+            4,
+            9,
+            6
+         ],
+         "nActiveDays": 596,
+         "latestEventDate": "2021-05-06T20:10:54.000Z",
+         "firstAvailableEventDate": "2021-02-06T05:11:50.000Z"
+      },
+      {
+         "id": "5fc22a4309c3508df7a2f773",
+         "registerDay": 18594,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 4,
+         "activityRegression": {
+            "a": 0.2725274725274725,
+            "b": 2.2285714285714286
+         },
+         "latestActivities": [
+            0,
+            6,
+            3,
+            1,
+            3,
+            2,
+            4,
+            5,
+            7,
+            7,
+            3,
+            6,
+            2,
+            7
+         ],
+         "nActiveDays": 286,
+         "latestEventDate": "2021-05-06T19:30:45.000Z",
+         "firstAvailableEventDate": "2021-02-06T05:45:18.000Z"
+      },
+      {
+         "id": "601f17f7ebf6f9382b1e37de",
+         "registerDay": 18664,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               7,
+               9,
+               7,
+               0,
+               9,
+               1,
+               9,
+               9,
+               9,
+               9,
+               8,
+               6,
+               0
+            ]
+         },
+         "activityAverage": 4.214285714285714,
+         "activityRegression": {
+            "a": 0.26593406593406593,
+            "b": 2.4857142857142858
+         },
+         "latestActivities": [
+            0,
+            1,
+            6,
+            5,
+            4,
+            2,
+            5,
+            3,
+            8,
+            7,
+            3,
+            2,
+            9,
+            4
+         ],
+         "nActiveDays": 490,
+         "latestEventDate": "2021-05-06T17:23:03.000Z",
+         "firstAvailableEventDate": "2021-02-07T09:00:34.000Z"
+      },
+      {
+         "id": "5fcbde98a558e8f8ad254f2e",
+         "registerDay": 18601,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 5.214285714285714,
+         "activityRegression": {
+            "a": 0.26593406593406593,
+            "b": 3.4857142857142858
+         },
+         "latestActivities": [
+            1,
+            4,
+            6,
+            4,
+            4,
+            8,
+            6,
+            1,
+            5,
+            9,
+            7,
+            4,
+            9,
+            5
+         ],
+         "nActiveDays": 197,
+         "latestEventDate": "2021-05-06T17:44:40.000Z",
+         "firstAvailableEventDate": "2021-02-10T19:27:15.000Z"
+      },
+      {
+         "id": "5fd9cd10a558e8f8ad2685c6",
+         "registerDay": 18612,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 7.642857142857143,
+         "activityRegression": {
+            "a": 0.26153846153846155,
+            "b": 5.942857142857142
+         },
+         "latestActivities": [
+            8,
+            1,
+            9,
+            9,
+            5,
+            6,
+            8,
+            9,
+            8,
+            9,
+            9,
+            8,
+            9,
+            9
+         ],
+         "nActiveDays": 588,
+         "latestEventDate": "2021-05-06T18:24:07.000Z",
+         "firstAvailableEventDate": "2021-02-06T13:28:40.000Z"
+      }
+   ],
+   "stableUsers": [
+      {
+         "id": "5ffea81a065ca5807fcc8cca",
+         "registerDay": 18640,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 9,
+         "activityRegression": {
+            "a": 0,
+            "b": 9
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 1444,
+         "latestEventDate": "2021-05-06T20:36:54.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:13:23.000Z"
+      },
+      {
+         "id": "5ff221d4065ca5807fcae76b",
+         "registerDay": 18630,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 9,
+         "activityRegression": {
+            "a": 0,
+            "b": 9
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 1079,
+         "latestEventDate": "2021-05-06T17:27:22.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:31:24.000Z"
+      },
+      {
+         "id": "5f4b6c9fc554ed0a062566cb",
+         "registerDay": 18504,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 9,
+         "activityRegression": {
+            "a": 0,
+            "b": 9
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 731,
+         "latestEventDate": "2021-05-06T18:15:49.000Z",
+         "firstAvailableEventDate": "2021-02-06T07:39:01.000Z"
+      },
+      {
+         "id": "5fd3b6d0a558e8f8ad25f460",
+         "registerDay": 18607,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 9,
+         "activityRegression": {
+            "a": 0,
+            "b": 9
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 1219,
+         "latestEventDate": "2021-05-06T20:01:47.000Z",
+         "firstAvailableEventDate": "2021-02-06T07:54:16.000Z"
+      },
+      {
+         "id": "5fa2af62d8658eb3cb36b200",
+         "registerDay": 18570,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 9,
+         "activityRegression": {
+            "a": 0,
+            "b": 9
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 1380,
+         "latestEventDate": "2021-05-06T19:46:40.000Z",
+         "firstAvailableEventDate": "2021-02-06T07:59:32.000Z"
+      },
+      {
+         "id": "602e6ea945375e5a2a914a43",
+         "registerDay": 18676,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               9,
+               9,
+               9,
+               9,
+               8,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9
+            ]
+         },
+         "activityAverage": 9,
+         "activityRegression": {
+            "a": 0,
+            "b": 9
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 1039,
+         "latestEventDate": "2021-05-06T20:34:53.000Z",
+         "firstAvailableEventDate": "2021-02-18T14:47:54.000Z"
+      },
+      {
+         "id": "60577d7d45375e5a2a997aa1",
+         "registerDay": 18707,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               3,
+               9,
+               7,
+               8,
+               9,
+               6,
+               8,
+               6,
+               9,
+               6,
+               9,
+               9,
+               8,
+               9
+            ]
+         },
+         "activityAverage": 8.857142857142858,
+         "activityRegression": {
+            "a": 0.004395604395604396,
+            "b": 8.828571428571427
+         },
+         "latestActivities": [
+            8,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            8,
+            9
+         ],
+         "nActiveDays": 445,
+         "latestEventDate": "2021-05-06T18:12:04.000Z",
+         "firstAvailableEventDate": "2021-03-21T17:38:50.000Z"
+      },
+      {
+         "id": "600a63d8065ca5807fce5f4c",
+         "registerDay": 18649,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 8.785714285714286,
+         "activityRegression": {
+            "a": 0.03296703296703297,
+            "b": 8.571428571428571
+         },
+         "latestActivities": [
+            7,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            8,
+            9
+         ],
+         "nActiveDays": 824,
+         "latestEventDate": "2021-05-06T18:32:54.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:35:40.000Z"
+      },
+      {
+         "id": "603ab53a45375e5a2a93c06a",
+         "registerDay": 18685,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               9,
+               7,
+               9,
+               9,
+               7,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9
+            ]
+         },
+         "activityAverage": 8.642857142857142,
+         "activityRegression": {
+            "a": -0.06373626373626373,
+            "b": 9.057142857142857
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            7,
+            9,
+            9,
+            7,
+            9,
+            9,
+            8
+         ],
+         "nActiveDays": 929,
+         "latestEventDate": "2021-05-06T20:30:52.000Z",
+         "firstAvailableEventDate": "2021-02-27T21:41:54.000Z"
+      },
+      {
+         "id": "602acf45ac10a9522c20938f",
+         "registerDay": 18673,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               0,
+               0,
+               0,
+               6,
+               9,
+               5,
+               9,
+               9,
+               8,
+               1,
+               9,
+               9,
+               4
+            ]
+         },
+         "activityAverage": 8.642857142857142,
+         "activityRegression": {
+            "a": 0.02857142857142857,
+            "b": 8.457142857142857
+         },
+         "latestActivities": [
+            9,
+            9,
+            8,
+            9,
+            9,
+            9,
+            5,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 669,
+         "latestEventDate": "2021-05-06T15:50:47.000Z",
+         "firstAvailableEventDate": "2021-02-15T20:19:57.000Z"
+      },
+      {
+         "id": "607ecf8def79e6456d27c473",
+         "registerDay": 18737,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               6,
+               1,
+               0,
+               9,
+               9,
+               9,
+               9,
+               9,
+               3,
+               9,
+               9,
+               9,
+               9,
+               8
+            ]
+         },
+         "activityAverage": 8.5,
+         "activityRegression": {
+            "a": 0.024175824175824177,
+            "b": 8.342857142857143
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            9,
+            9,
+            3,
+            9,
+            9,
+            9,
+            9,
+            8,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 160,
+         "latestEventDate": "2021-05-06T19:30:16.000Z",
+         "firstAvailableEventDate": "2021-04-20T13:32:15.000Z"
+      },
+      {
+         "id": "601fdb63ebf6f9382b1e56a2",
+         "registerDay": 18665,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               6,
+               3,
+               6,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               8,
+               5,
+               6,
+               9
+            ]
+         },
+         "activityAverage": 8.285714285714286,
+         "activityRegression": {
+            "a": 0.02197802197802198,
+            "b": 8.142857142857142
+         },
+         "latestActivities": [
+            9,
+            7,
+            9,
+            9,
+            9,
+            6,
+            8,
+            7,
+            9,
+            9,
+            8,
+            9,
+            9,
+            8
+         ],
+         "nActiveDays": 833,
+         "latestEventDate": "2021-05-06T20:45:50.000Z",
+         "firstAvailableEventDate": "2021-02-07T12:59:18.000Z"
+      },
+      {
+         "id": "60412b2245375e5a2a951154",
+         "registerDay": 18690,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               1,
+               0,
+               0,
+               0,
+               0,
+               1,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 8.285714285714286,
+         "activityRegression": {
+            "a": 0.08791208791208792,
+            "b": 7.7142857142857135
+         },
+         "latestActivities": [
+            8,
+            8,
+            8,
+            5,
+            9,
+            9,
+            9,
+            9,
+            8,
+            9,
+            9,
+            7,
+            9,
+            9
+         ],
+         "nActiveDays": 335,
+         "latestEventDate": "2021-05-06T18:04:46.000Z",
+         "firstAvailableEventDate": "2021-03-07T17:33:52.000Z"
+      },
+      {
+         "id": "606b5c1a6d9e37afc8af47f6",
+         "registerDay": 18722,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               3,
+               2,
+               0,
+               3,
+               1,
+               0,
+               1,
+               0,
+               2,
+               2,
+               6,
+               9,
+               9
+            ]
+         },
+         "activityAverage": 8.142857142857142,
+         "activityRegression": {
+            "a": 0.07912087912087912,
+            "b": 7.628571428571428
+         },
+         "latestActivities": [
+            9,
+            3,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            3,
+            9,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 308,
+         "latestEventDate": "2021-05-06T17:29:06.000Z",
+         "firstAvailableEventDate": "2021-04-06T03:28:21.000Z"
+      },
+      {
+         "id": "60774bac6d9e37afc8b1f5ed",
+         "registerDay": 18731,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               9,
+               9,
+               9,
+               9,
+               9,
+               9,
+               6,
+               9,
+               6,
+               9,
+               9,
+               9,
+               8
+            ]
+         },
+         "activityAverage": 7.857142857142857,
+         "activityRegression": {
+            "a": -0.06593406593406594,
+            "b": 8.285714285714285
+         },
+         "latestActivities": [
+            6,
+            9,
+            9,
+            9,
+            8,
+            9,
+            9,
+            9,
+            9,
+            4,
+            2,
+            9,
+            9,
+            9
+         ],
+         "nActiveDays": 237,
+         "latestEventDate": "2021-05-06T20:36:17.000Z",
+         "firstAvailableEventDate": "2021-04-14T20:39:09.000Z"
+      },
+      {
+         "id": "5fe510e819db56e4a0c3d8c0",
+         "registerDay": 18620,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 7.785714285714286,
+         "activityRegression": {
+            "a": -0.05934065934065934,
+            "b": 8.17142857142857
+         },
+         "latestActivities": [
+            5,
+            9,
+            9,
+            9,
+            9,
+            9,
+            8,
+            5,
+            9,
+            9,
+            9,
+            3,
+            7,
+            9
+         ],
+         "nActiveDays": 365,
+         "latestEventDate": "2021-05-06T16:57:39.000Z",
+         "firstAvailableEventDate": "2021-02-07T18:15:51.000Z"
+      },
+      {
+         "id": "5fa9752fe665b76937a11754",
+         "registerDay": 18575,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 7.571428571428571,
+         "activityRegression": {
+            "a": 0.04835164835164835,
+            "b": 7.257142857142857
+         },
+         "latestActivities": [
+            9,
+            9,
+            9,
+            6,
+            5,
+            5,
+            9,
+            3,
+            9,
+            9,
+            7,
+            9,
+            8,
+            9
+         ],
+         "nActiveDays": 647,
+         "latestEventDate": "2021-05-06T20:10:20.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:36:20.000Z"
+      },
+      {
+         "id": "5fb2e3afd6a7312fc5c8ffa7",
+         "registerDay": 18582,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 7.571428571428571,
+         "activityRegression": {
+            "a": 0.05274725274725275,
+            "b": 7.228571428571429
+         },
+         "latestActivities": [
+            5,
+            9,
+            9,
+            8,
+            7,
+            8,
+            5,
+            7,
+            9,
+            9,
+            5,
+            8,
+            9,
+            8
+         ],
+         "nActiveDays": 682,
+         "latestEventDate": "2021-05-06T20:12:07.000Z",
+         "firstAvailableEventDate": "2021-02-06T05:28:46.000Z"
+      },
+      {
+         "id": "605329c845375e5a2a98a72e",
+         "registerDay": 18704,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               8,
+               9,
+               3,
+               3,
+               2,
+               5,
+               5,
+               7,
+               9,
+               8,
+               3,
+               9,
+               7,
+               9
+            ]
+         },
+         "activityAverage": 7.214285714285714,
+         "activityRegression": {
+            "a": 0.024175824175824177,
+            "b": 7.057142857142856
+         },
+         "latestActivities": [
+            4,
+            8,
+            8,
+            9,
+            5,
+            7,
+            9,
+            7,
+            9,
+            8,
+            7,
+            8,
+            5,
+            7
+         ],
+         "nActiveDays": 379,
+         "latestEventDate": "2021-05-06T20:35:19.000Z",
+         "firstAvailableEventDate": "2021-03-18T11:17:22.000Z"
+      },
+      {
+         "id": "5fb4d8ddd6a7312fc5c914ed",
+         "registerDay": 18584,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 7,
+         "activityRegression": {
+            "a": 0.06593406593406594,
+            "b": 6.571428571428571
+         },
+         "latestActivities": [
+            3,
+            6,
+            7,
+            9,
+            9,
+            8,
+            8,
+            4,
+            9,
+            8,
+            7,
+            6,
+            9,
+            5
+         ],
+         "nActiveDays": 659,
+         "latestEventDate": "2021-05-06T19:06:48.000Z",
+         "firstAvailableEventDate": "2021-02-06T06:41:27.000Z"
+      }
+   ],
+   "mostDecrease": [
+      {
+         "id": "604e55f245375e5a2a97a70d",
+         "registerDay": 18700,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               5,
+               8,
+               1,
+               0,
+               0,
+               0,
+               0,
+               1,
+               0,
+               4,
+               0,
+               1,
+               1
+            ]
+         },
+         "activityAverage": 5.357142857142857,
+         "activityRegression": {
+            "a": -0.5296703296703297,
+            "b": 8.799999999999999
+         },
+         "latestActivities": [
+            7,
+            9,
+            9,
+            6,
+            9,
+            9,
+            7,
+            1,
+            5,
+            1,
+            2,
+            1,
+            5,
+            4
+         ],
+         "nActiveDays": 314,
+         "latestEventDate": "2021-05-06T11:14:05.000Z",
+         "firstAvailableEventDate": "2021-03-14T19:22:26.000Z"
+      },
+      {
+         "id": "60127bc2065ca5807fcfe02b",
+         "registerDay": 18655,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               7,
+               7,
+               7,
+               9,
+               3
+            ]
+         },
+         "activityAverage": 4.357142857142857,
+         "activityRegression": {
+            "a": -0.5032967032967033,
+            "b": 7.628571428571428
+         },
+         "latestActivities": [
+            6,
+            9,
+            5,
+            9,
+            9,
+            5,
+            1,
+            2,
+            2,
+            3,
+            4,
+            1,
+            4,
+            1
+         ],
+         "nActiveDays": 243,
+         "latestEventDate": "2021-05-06T07:17:12.000Z",
+         "firstAvailableEventDate": "2021-02-06T05:10:39.000Z"
+      },
+      {
+         "id": "607bd4ed96a9b80bd5cc3f2f",
+         "registerDay": 18735,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               7,
+               4,
+               4,
+               2,
+               3,
+               6,
+               4,
+               7,
+               8,
+               4,
+               5,
+               4,
+               3,
+               3
+            ]
+         },
+         "activityAverage": 3.5714285714285716,
+         "activityRegression": {
+            "a": -0.5010989010989011,
+            "b": 6.828571428571427
+         },
+         "latestActivities": [
+            6,
+            4,
+            7,
+            8,
+            4,
+            5,
+            4,
+            3,
+            3,
+            3,
+            1,
+            2,
+            0,
+            0
+         ],
+         "nActiveDays": 70,
+         "latestEventDate": "2021-05-04T15:05:07.000Z",
+         "firstAvailableEventDate": "2021-04-18T07:13:33.000Z"
+      },
+      {
+         "id": "605f48c745375e5a2a9abacb",
+         "registerDay": 18713,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 1.3571428571428572,
+         "activityRegression": {
+            "a": -0.432967032967033,
+            "b": 4.171428571428572
+         },
+         "latestActivities": [
+            5,
+            6,
+            5,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+         ],
+         "nActiveDays": 36,
+         "latestEventDate": "2021-04-26T13:46:16.000Z",
+         "firstAvailableEventDate": "2021-04-16T17:33:34.000Z"
+      },
+      {
+         "id": "607d9ca996a9b80bd5ccc04c",
+         "registerDay": 18736,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               4,
+               4,
+               5,
+               8,
+               2,
+               5,
+               9,
+               9,
+               1,
+               2,
+               6,
+               1,
+               1,
+               3
+            ]
+         },
+         "activityAverage": 3.0714285714285716,
+         "activityRegression": {
+            "a": -0.4153846153846154,
+            "b": 5.7714285714285705
+         },
+         "latestActivities": [
+            2,
+            5,
+            9,
+            9,
+            1,
+            2,
+            6,
+            1,
+            1,
+            3,
+            2,
+            1,
+            1,
+            0
+         ],
+         "nActiveDays": 68,
+         "latestEventDate": "2021-05-05T19:14:04.000Z",
+         "firstAvailableEventDate": "2021-04-19T15:55:26.000Z"
+      },
+      {
+         "id": "6082a615ef79e6456d28a9e5",
+         "registerDay": 18740,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               4,
+               9,
+               9,
+               9,
+               7,
+               6,
+               5,
+               2,
+               6,
+               3,
+               5,
+               2,
+               5,
+               2
+            ]
+         },
+         "activityAverage": 5.285714285714286,
+         "activityRegression": {
+            "a": -0.4043956043956044,
+            "b": 7.914285714285715
+         },
+         "latestActivities": [
+            4,
+            9,
+            9,
+            9,
+            7,
+            6,
+            5,
+            2,
+            6,
+            3,
+            5,
+            2,
+            5,
+            2
+         ],
+         "nActiveDays": 77,
+         "latestEventDate": "2021-05-06T16:27:46.000Z",
+         "firstAvailableEventDate": "2021-04-23T16:00:48.000Z"
+      },
+      {
+         "id": "5f4b6f11c554edff1c2566d1",
+         "registerDay": 18504,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 5.142857142857143,
+         "activityRegression": {
+            "a": -0.3912087912087912,
+            "b": 7.685714285714285
+         },
+         "latestActivities": [
+            9,
+            9,
+            6,
+            5,
+            6,
+            4,
+            4,
+            4,
+            7,
+            3,
+            5,
+            7,
+            2,
+            1
+         ],
+         "nActiveDays": 730,
+         "latestEventDate": "2021-05-06T16:26:53.000Z",
+         "firstAvailableEventDate": "2021-02-06T04:34:45.000Z"
+      },
+      {
+         "id": "607dcf8696a9b80bd5ccd22e",
+         "registerDay": 18736,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               2,
+               3,
+               3,
+               8,
+               3,
+               4,
+               6,
+               9,
+               2,
+               2,
+               2,
+               0,
+               1,
+               1
+            ]
+         },
+         "activityAverage": 2.4285714285714284,
+         "activityRegression": {
+            "a": -0.3868131868131868,
+            "b": 4.942857142857143
+         },
+         "latestActivities": [
+            3,
+            4,
+            6,
+            9,
+            2,
+            2,
+            2,
+            0,
+            1,
+            1,
+            2,
+            1,
+            1,
+            0
+         ],
+         "nActiveDays": 50,
+         "latestEventDate": "2021-05-05T22:51:47.000Z",
+         "firstAvailableEventDate": "2021-04-19T19:44:22.000Z"
+      },
+      {
+         "id": "5f668d53e2ad3673276fe5c9",
+         "registerDay": 18524,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 1.3571428571428572,
+         "activityRegression": {
+            "a": -0.3758241758241758,
+            "b": 3.8
+         },
+         "latestActivities": [
+            9,
+            2,
+            3,
+            1,
+            1,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+         ],
+         "nActiveDays": 167,
+         "latestEventDate": "2021-05-06T18:33:52.000Z",
+         "firstAvailableEventDate": "2021-02-10T16:31:05.000Z"
+      },
+      {
+         "id": "600b121e065ca5807fce89ee",
+         "registerDay": 18649,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 5,
+         "activityRegression": {
+            "a": -0.37362637362637363,
+            "b": 7.428571428571429
+         },
+         "latestActivities": [
+            7,
+            6,
+            8,
+            9,
+            4,
+            3,
+            5,
+            5,
+            8,
+            3,
+            1,
+            9,
+            1,
+            1
+         ],
+         "nActiveDays": 354,
+         "latestEventDate": "2021-05-06T20:06:52.000Z",
+         "firstAvailableEventDate": "2021-02-05T20:34:11.000Z"
+      },
+      {
+         "id": "5f95cc91707946a8af58bad0",
+         "registerDay": 18560,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 3.7857142857142856,
+         "activityRegression": {
+            "a": -0.3626373626373626,
+            "b": 6.142857142857142
+         },
+         "latestActivities": [
+            4,
+            9,
+            5,
+            4,
+            6,
+            5,
+            1,
+            2,
+            6,
+            5,
+            2,
+            1,
+            1,
+            2
+         ],
+         "nActiveDays": 407,
+         "latestEventDate": "2021-05-06T16:58:06.000Z",
+         "firstAvailableEventDate": "2021-02-06T05:45:46.000Z"
+      },
+      {
+         "id": "602376ea5520f0bcd2916867",
+         "registerDay": 18668,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               6,
+               2,
+               6,
+               3,
+               0,
+               4,
+               0,
+               1,
+               9,
+               5,
+               4,
+               1,
+               2,
+               2
+            ]
+         },
+         "activityAverage": 3.2142857142857144,
+         "activityRegression": {
+            "a": -0.3626373626373626,
+            "b": 5.571428571428571
+         },
+         "latestActivities": [
+            5,
+            4,
+            8,
+            3,
+            3,
+            7,
+            1,
+            4,
+            2,
+            3,
+            2,
+            1,
+            0,
+            2
+         ],
+         "nActiveDays": 163,
+         "latestEventDate": "2021-05-06T20:02:26.000Z",
+         "firstAvailableEventDate": "2021-02-10T06:48:21.000Z"
+      },
+      {
+         "id": "5fc0dde9c4a75e2a0c7b82e2",
+         "registerDay": 18593,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 3.0714285714285716,
+         "activityRegression": {
+            "a": -0.34065934065934067,
+            "b": 5.285714285714286
+         },
+         "latestActivities": [
+            0,
+            1,
+            9,
+            9,
+            8,
+            5,
+            3,
+            0,
+            0,
+            3,
+            3,
+            0,
+            2,
+            0
+         ],
+         "nActiveDays": 122,
+         "latestEventDate": "2021-05-05T09:43:24.000Z",
+         "firstAvailableEventDate": "2021-02-07T12:23:52.000Z"
+      },
+      {
+         "id": "607d3e4a96a9b80bd5cc9dc2",
+         "registerDay": 18736,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               9,
+               3,
+               1,
+               0,
+               0,
+               4,
+               3,
+               5,
+               9,
+               2,
+               4,
+               1,
+               1,
+               1
+            ]
+         },
+         "activityAverage": 2.142857142857143,
+         "activityRegression": {
+            "a": -0.33406593406593404,
+            "b": 4.314285714285714
+         },
+         "latestActivities": [
+            0,
+            4,
+            3,
+            5,
+            9,
+            2,
+            4,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+         ],
+         "nActiveDays": 43,
+         "latestEventDate": "2021-05-02T15:30:09.000Z",
+         "firstAvailableEventDate": "2021-04-19T10:08:23.000Z"
+      },
+      {
+         "id": "605f234b45375e5a2a9ab237",
+         "registerDay": 18713,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               1,
+               0,
+               1,
+               4,
+               1,
+               1,
+               4,
+               4,
+               4,
+               4,
+               4,
+               4,
+               2
+            ]
+         },
+         "activityAverage": 2,
+         "activityRegression": {
+            "a": -0.31648351648351647,
+            "b": 4.057142857142857
+         },
+         "latestActivities": [
+            5,
+            4,
+            1,
+            5,
+            1,
+            3,
+            2,
+            4,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+         ],
+         "nActiveDays": 101,
+         "latestEventDate": "2021-05-05T11:25:37.000Z",
+         "firstAvailableEventDate": "2021-03-27T20:39:04.000Z"
+      },
+      {
+         "id": "5fd1ae23a558e8f8ad25ca09",
+         "registerDay": 18606,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 1.3571428571428572,
+         "activityRegression": {
+            "a": -0.3142857142857143,
+            "b": 3.3999999999999995
+         },
+         "latestActivities": [
+            4,
+            3,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+         ],
+         "nActiveDays": 42,
+         "latestEventDate": "2021-05-01T01:13:13.000Z",
+         "firstAvailableEventDate": "2021-02-06T19:48:09.000Z"
+      },
+      {
+         "id": "605c167745375e5a2a9a37f3",
+         "registerDay": 18711,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               3,
+               0,
+               2,
+               1,
+               2,
+               1,
+               0,
+               0,
+               0,
+               0,
+               1,
+               1,
+               0,
+               4
+            ]
+         },
+         "activityAverage": 1.1428571428571428,
+         "activityRegression": {
+            "a": -0.3120879120879121,
+            "b": 3.1714285714285713
+         },
+         "latestActivities": [
+            4,
+            2,
+            3,
+            5,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+         ],
+         "nActiveDays": 33,
+         "latestEventDate": "2021-04-29T18:11:08.000Z",
+         "firstAvailableEventDate": "2021-03-25T09:04:23.000Z"
+      },
+      {
+         "id": "60808a3aef79e6456d283e27",
+         "registerDay": 18738,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               1,
+               3,
+               4,
+               5,
+               0,
+               6,
+               4,
+               2,
+               4,
+               1,
+               2,
+               3,
+               1,
+               0
+            ]
+         },
+         "activityAverage": 2.357142857142857,
+         "activityRegression": {
+            "a": -0.3010989010989011,
+            "b": 4.314285714285714
+         },
+         "latestActivities": [
+            4,
+            5,
+            0,
+            6,
+            4,
+            2,
+            4,
+            1,
+            2,
+            3,
+            1,
+            0,
+            0,
+            1
+         ],
+         "nActiveDays": 37,
+         "latestEventDate": "2021-05-06T09:15:42.000Z",
+         "firstAvailableEventDate": "2021-04-21T22:33:37.000Z"
+      },
+      {
+         "id": "60826a73ef79e6456d289b32",
+         "registerDay": 18740,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               6,
+               0,
+               1,
+               2,
+               7,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 1.1428571428571428,
+         "activityRegression": {
+            "a": -0.2989010989010989,
+            "b": 3.0857142857142854
+         },
+         "latestActivities": [
+            6,
+            0,
+            1,
+            2,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+         ],
+         "nActiveDays": 16,
+         "latestEventDate": "2021-04-27T17:52:25.000Z",
+         "firstAvailableEventDate": "2021-04-23T07:04:41.000Z"
+      },
+      {
+         "id": "5fc32a6e09c3508df7a307ee",
+         "registerDay": 18595,
+         "retention": {
+            "dataAvailable": true,
+            "heatmap": [
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0,
+               0
+            ]
+         },
+         "activityAverage": 1.5,
+         "activityRegression": {
+            "a": -0.2967032967032967,
+            "b": 3.428571428571429
+         },
+         "latestActivities": [
+            4,
+            8,
+            0,
+            2,
+            1,
+            1,
+            0,
+            0,
+            3,
+            1,
+            0,
+            0,
+            0,
+            1
+         ],
+         "nActiveDays": 119,
+         "latestEventDate": "2021-05-06T20:46:01.000Z",
+         "firstAvailableEventDate": "2021-02-06T05:08:26.000Z"
+      }
+   ]
+}
