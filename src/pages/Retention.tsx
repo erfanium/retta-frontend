@@ -27,7 +27,7 @@ function Retention() {
       <h1 className="h1">Retention</h1>
       <h6 className="pb-3 border-bottom">Last Month</h6>
 
-      <div className="pt-3" style={{ height: "300px" }}>
+      <div className="pt-3 pb-3" style={{ height: "300px" }}>
         <ResponsiveFunnel
           data={data.chart.map((v, i) => ({
             id: i.toString(),
@@ -47,6 +47,8 @@ function Retention() {
           theme={theme}
         />
       </div>
+
+      <h6 className="fw-light">{data.nUsers + " total users in this period"}</h6>
     </>
   );
 }

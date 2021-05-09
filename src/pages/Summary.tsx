@@ -23,7 +23,7 @@ function Users({ name, title, query }) {
       <div className="container">
         {data.map((u) => (
           <div className="mb-1">
-            <Heatmap data={u.heatmap} name={u.id} />
+            <Heatmap data={u.heatmap} name={u.name} uid={u.id} tags={u.tags} />
           </div>
         ))}
 

@@ -10,4 +10,4 @@ function get(method: string, params: Record<string, any>) {
 export const getGrowingUsers = (page: number) => get('getGrowingUsers', { page })
 export const getDecliningUsers = (page: number) => get('getDecliningUsers', { page })
 export const getTopUsers = (page: number) => get('getTopUsers', { page })
-export const getRetentionChart = (): Promise<{ chart: number[] }> => get('getRetentionChart', null)
+export const getRetentionChart = (): Promise<{ chart: number[], nUsers: number }> => get('getRetentionChart', null)
